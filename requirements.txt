@@ -1,0 +1,10 @@
+lxml
+numpy
+pandas
+matplotlib
+torch
+torchvision
+Pillow
+opencv-python
+resnest
+efficientnet_pytorch
